@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibManageNew", "LibManageNew.csproj", "{AC3DF391-89CA-4047-88E3-61B384EA0E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3DF391-89CA-4047-88E3-61B384EA0E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3DF391-89CA-4047-88E3-61B384EA0E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3DF391-89CA-4047-88E3-61B384EA0E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3DF391-89CA-4047-88E3-61B384EA0E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E4A926-F40E-4CDB-A9E3-AB3F60D6D546}
+	EndGlobalSection
+EndGlobal
